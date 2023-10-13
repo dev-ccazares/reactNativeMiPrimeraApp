@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import {Text, TouchableOpacity, View, StyleSheet} from 'react-native';
+import {Text, View, StyleSheet} from 'react-native';
 import {Fab} from '../components/Fab';
 
 export const ContadorScreen = () => {
